@@ -1,0 +1,33 @@
+.boxcenter {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.boxsp {
+    float: left;
+    width: 30%;
+    margin: 1.5%;
+    text-align: center;
+}
+
+.boxsp img {
+    width: 100%;
+}
+
+span {
+    color: red;
+}
+
+.boxsp p {
+    font-size: 14pt;
+    font-weight: bold;
+}
+
+th {
+    background-color: #CCC;
+}
+
+table {
+    width: 100%;
+}
+
